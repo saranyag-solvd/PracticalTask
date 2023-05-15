@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 //Java program to check whether the given integer is a multiple of 5
 public class Calculation {
 
