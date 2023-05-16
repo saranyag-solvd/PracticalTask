@@ -11,7 +11,5 @@ public class RandomNumber {
             System.out.println("Number is even");
         } else
             System.out.println("Number is odd");
-
-
     }
 }
